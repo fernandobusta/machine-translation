@@ -1,3 +1,7 @@
 # Statistical Machine Translation
 
-Mostly coursework and applied concepts.
+Some of the work includes:
+
+- Evaluation: unigram matching
+- SMT: n-gram models
+- IBM models
